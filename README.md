@@ -5,7 +5,7 @@ Image Classifiers are used in the field of computer vision to identify the conte
 In this project, I built an image classification model that can automatically detect which kind of vehicle delivery drivers have, in order to route them to the correct loading bay and orders. Assigning delivery professionals who have a bicycle to nearby orders and giving motorcyclists orders that are farther can help Scones Unlimited optimize their operations. This is a portfolio-ready demo that showcases my ability to build and compose scalable, ML-enabled, AWS applications.
 
 
-In this project,I used:
+In this project, I used:
 1) Sagemaker to build an image classification model that can tell bicycles apart from motorcycles.
 2) AWS Lambda functions to build supporting services.
 3) AWS Step Functions to compose your model and services into an event-driven application.
