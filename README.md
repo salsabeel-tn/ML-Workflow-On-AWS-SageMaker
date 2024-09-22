@@ -6,9 +6,9 @@ In this project, I built an image classification model that can automatically de
 
 
 In this project, I used:
-1) Sagemaker to build an image classification model that can tell bicycles apart from motorcycles.
+1) Sagemaker to build an image classification model that can differentiate bicycles from motorcycles.
 2) AWS Lambda functions to build supporting services.
-3) AWS Step Functions to compose your model and services into an event-driven application.
+3) AWS Step Functions to compose the model and services into an event-driven application.
 
 ## Project Steps Overview <br>
 Step 1: Data staging<br>
